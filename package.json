@@ -1,0 +1,15 @@
+{
+  "name": "as10-code-atoms-server",
+  "version": "1.0.0",
+  "description": "Server of assingment 10 by Arif for PH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif Uddin Raihan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
