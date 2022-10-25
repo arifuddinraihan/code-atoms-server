@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "MS Office Course Bundle- Word , Powerpoint , Excel & Outlook",
+        "image": "https://images.unsplash.com/photo-1632239776255-0a7f24814df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "details" : "In this MS Office video course, you will learn everything you need to know about MS Office for Professional level productivity. Software needs to be installed and link is included in the training. We'll take advantage of a 30-day free trial that anyone who registers in the BD will get for free.",
+        "rating": {
+            "rate": 4.1,
+            "count": 2090
+        }
+    },
+    {
+        "id": 2,
+        "name": "Excel Essentials for the Real World (Complete Excel Course)",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1115&q=80",
+        "details" : "Looking to learn Microsoft Excel and improve your data analysis skills but don't know where to start? OR, you've been using Microsoft Excel for a while but don't feel 100% confident? There is so much information out there. What do you need to succeed at work? I've picked out the Excel Essential skills a Data Analyst needs and packaged them in a structured course. In fact, I collected the most common Excel problems faced by my clients. I added in my 15+ years' experience in finance and project management. I included all the hidden tips and tricks I came to learn as an Excel MVP and put it ALL in THIS course. I also made sure it covers the absolute Excel beginners.",
+        "rating": {
+            "rate": 4.7,
+            "count": 2590
+        }
+    },
+    {
+        "id": 3,
+        "name": "The Data Science Course 2022: Complete Data Science Bootcamp",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "details" : "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. So, in an effort to create the most effective, time-efficient, and structured data science training available online, we created The Data Science Course 2022.We believe this is the first training program that solves the biggest challenge to entering the data science field - having all the necessary resources in one place. Moreover, our focus is to teach topics that flow smoothly and complement each other. The course teaches you everything you need to know to become a data scientist at a fraction of the cost of traditional programs (not to mention the amount of time you will save).",
+        "rating": {
+            "rate": 4.6,
+            "count": 1059
+        }
+    },
+    {
+        "id": 4,
+        "name": "The Web Developer Bootcamp 2022",
+        "image": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+        "details" : "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+        "rating": {
+            "rate": 4.7,
+            "count": 4890
+        }
+    },
+    {
+        "id": 5,
+        "name": "Wordpress for Beginners - Master Wordpress Quickly",
+        "image": "https://images.unsplash.com/photo-1616469832301-ffaeadc68cf3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "details" : "The primary goal of this course is to teach anyone, even a complete beginner, how to become a Wordpress guru in a few short hours, without lots of technical jargon.  I'll guarantee that after taking this course you'll have the knowledge you need to build a responsive, beautiful website with the latest version of Wordpress. Not only will you know more than 99% of Wordpress users out there, but you'll actually enjoy using Wordpress too.",
+        "rating": {
+            "rate": 4.6,
+            "count": 2340
+        }
+    },
+    {
+        "id": 6,
+        "name": "Learn Shopify Now: Shopify for Beginners",
+        "image": "https://images.unsplash.com/photo-1586953208270-767889fa9b0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "details" : "If you've ever wondered how Shopify works and are interested in learning how to use it, or whether it's right for your online business, know that it is one of the best and most accessible eCommerce platforms on the Internet due to its simple and approachable design along with its multitude of abilities, special features, and a wide range of integrations and partnerships with other eCommerce platforms and online marketplaces. Because of this, Shopify is one of the most popular options for new entrepreneurs and business owners when setting up their online store or business. If you're a business owner who is ready to take your business online, whether selling digital services or physical products, then Shopify is one of the best ways to go!",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    }
+]
