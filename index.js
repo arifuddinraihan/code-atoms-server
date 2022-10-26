@@ -17,10 +17,20 @@ app.get('/category', (req, res) => {
   res.send(courseCategory)
 })
 
+app.get('/courses', (req, res) => {
+  res.send(coursePerCategory)
+})
+
 app.get('/category/:id', (req, res) => {
   const id = parseInt(req.params.id)
   const course = coursePerCategory.filter( singleCourse => singleCourse._id === id) || {}
   res.send(course)
+})
+
+app.get('/courses/:id', (req, res) => {
+  const id = parseInt(req.params.id)
+  const singleCourse = coursePerCategory.find(perCourse => perCourse.id === id) || {}
+  res.send(singleCourse)
 })
 
 app.listen(port, () => {
