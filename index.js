@@ -17,18 +17,19 @@ app.get('/category', (req, res) => {
   res.send(courseCategory)
 })
 
+app.get('/category/:id', (req, res) => {
+  const id = parseInt(req.params.id)
+  const course = coursePerCategory.filter( singleCourse => singleCourse.category_id === id) || {}
+  res.send(course)
+})
+
 app.get('/courses', (req, res) => {
   res.send(coursePerCategory)
 })
 
-app.get('/category/:id', (req, res) => {
-  const id = parseInt(req.params.id)
-  const course = coursePerCategory.filter( singleCourse => singleCourse._id === id) || {}
-  res.send(course)
-})
-
 app.get('/courses/:id', (req, res) => {
-  const id = parseInt(req.params.id)
+  const id = req.params.id
+  console.log(id)
   const singleCourse = coursePerCategory.find(perCourse => perCourse.id === id) || {}
   res.send(singleCourse)
 })

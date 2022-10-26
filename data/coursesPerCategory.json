@@ -1,7 +1,7 @@
 [
     {
-        "_id": 1,
-        "id": 1,
+        "category_id": 1,
+        "id": "avijsbnaisnvoaiv",
         "title": "MS Office Course Bundle- Word , Powerpoint , Excel & Outlook",
         "price": 19,
         "description": "In this MS Office video course, you will learn everything you need to know about MS Office for Professional level productivity. Software needs to be installed and link is included in the training. We'll take advantage of a 30-day free trial that anyone who registers in the BD will get for free.",
@@ -13,8 +13,21 @@
         }
     },
     {
-        "_id": 2,
-        "id": 2,
+        "category_id": 1,
+        "id": "ihpaifhauifnisnfasnf",
+        "title": "Microsoft Office Complete Course | All in one MS Office",
+        "price": 30,
+        "description": "Microsoft Word is used for writing books, letters, resumes, applications, or any other documentation work. Microsoft Powerpoint is used to present the data summary in the form of slides. Microsoft Excel is used for calculations, data analyzation & data consolidation.  This Microsoft Office course is a complete guide to all three above-mentioned MS office products. In this course of Microsoft office, you will be able to learn the all above-mentioned uses of Microsoft Word, Microsoft PowerPoint & Microsoft Excel",
+        "category": "MS Office",
+        "image": "https://images.unsplash.com/photo-1624571395775-253d9666612b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "rating": {
+            "rate": 4.2,
+            "count": 12059
+        }
+    },
+    {
+        "category_id": 2,
+        "id": "nionacoinsconaoincasin",
         "title": "Excel Essentials for the Real World",
         "price": 19,
         "description": "Looking to learn Microsoft Excel and improve your data analysis skills but don't know where to start? OR, you've been using Microsoft Excel for a while but don't feel 100% confident? There is so much information out there. What do you need to succeed at work? I've picked out the Excel Essential skills a Data Analyst needs and packaged them in a structured course. In fact, I collected the most common Excel problems faced by my clients. I added in my 15+ years' experience in finance and project management. I included all the hidden tips and tricks I came to learn as an Excel MVP and put it ALL in THIS course. I also made sure it covers the absolute Excel beginners.",
@@ -26,8 +39,34 @@
         }
     },
     {
-        "_id": 3,
-        "id": 3,
+        "category_id": 2,
+        "id": "yruysatduiysaidupoasidpo",
+        "title": "Microsoft Excel - Data Analysis with Excel Pivot Tables",
+        "price": 29,
+        "description": "Pivots allow you to quickly explore and analyze raw data in Excel, revealing powerful insights and trends otherwise buried in the noise. In other words, they give you answers. Whether you're exploring product sales, analyzing which marketing tactics drove the strongest conversion rates, or wondering how condo prices have trended over the past 10 years, Excel Pivot Tables provide fast, accurate and intuitive solutions to even the most complicated analytics questions.",
+        "category": "MS Office",
+        "image": "https://images.unsplash.com/photo-1529078155058-5d716f45d604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+        "rating": {
+            "rate": 4.8,
+            "count": 4324
+        }
+    },
+    {
+        "category_id": 2,
+        "id": "mvzxnbkjbnjkhaosihdjsoaijd",
+        "title": "Microsoft Excel - Advanced Excel Formulas & Functions",
+        "price": 19,
+        "description": "This course will give you a deep understanding of the advanced Excel formulas and functions that transform Excel from a basic spreadsheet program into a dynamic and powerful analytics tool. While most Excel courses focus on simply what each formula does, I teach through hands-on, contextual examples designed to showcase why these formulas are awesome and how they can be applied in a number of ways. I will not train you to regurgitate functions and formula syntax; I will teach you how to THINK like Excel.",
+        "category": "MS Office",
+        "image": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+        "rating": {
+            "rate": 4.5,
+            "count": 8759
+        }
+    },
+    {
+        "category_id": 3,
+        "id": "ubaosucbaiubciuanciunasiucn",
         "title": "The Data Science Course 2022",
         "price": 22.3,
         "description": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. So, in an effort to create the most effective, time-efficient, and structured data science training available online, we created The Data Science Course 2022.We believe this is the first training program that solves the biggest challenge to entering the data science field - having all the necessary resources in one place. Moreover, our focus is to teach topics that flow smoothly and complement each other. The course teaches you everything you need to know to become a data scientist at a fraction of the cost of traditional programs (not to mention the amount of time you will save).",
@@ -39,8 +78,8 @@
         }
     },
     {
-        "_id": 4,
-        "id": 4,
+        "category_id": 4,
+        "id": "iuahgsouiyyauihauibsiunadn",
         "title": "The Web Developer Bootcamp 2022",
         "price": 22.3,
         "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
@@ -52,8 +91,8 @@
         }
     },
     {
-        "_id": 5,
-        "id": 5,
+        "category_id": 5,
+        "id": "iphaiufhaoiufnsoianfpoaisf",
         "title": "Wordpress for Beginners - Master Wordpress Quickly",
         "price": 22.3,
         "description": "The primary goal of this course is to teach anyone, even a complete beginner, how to become a Wordpress guru in a few short hours, without lots of technical jargon.  I'll guarantee that after taking this course you'll have the knowledge you need to build a responsive, beautiful website with the latest version of Wordpress. Not only will you know more than 99% of Wordpress users out there, but you'll actually enjoy using Wordpress too.",
@@ -65,8 +104,8 @@
         }
     },
     {
-        "_id": 6,
-        "id": 6,
+        "category_id": 6,
+        "id": "npoaisndioasnmdiosmaoidmasiomdoaismd",
         "title": "Learn Shopify Now: Shopify for Beginners",
         "price": 22.3,
         "description": "If you've ever wondered how Shopify works and are interested in learning how to use it, or whether it's right for your online business, know that it is one of the best and most accessible eCommerce platforms on the Internet due to its simple and approachable design along with its multitude of abilities, special features, and a wide range of integrations and partnerships with other eCommerce platforms and online marketplaces. Because of this, Shopify is one of the most popular options for new entrepreneurs and business owners when setting up their online store or business. If you're a business owner who is ready to take your business online, whether selling digital services or physical products, then Shopify is one of the best ways to go!",
