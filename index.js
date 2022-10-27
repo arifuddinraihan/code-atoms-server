@@ -19,8 +19,12 @@ app.get('/category', (req, res) => {
 
 app.get('/category/:id', (req, res) => {
   const id = parseInt(req.params.id)
-  const course = coursePerCategory.filter( singleCourse => singleCourse.category_id === id) || {}
-  res.send(course)
+  if (id === 7) {
+    res.send(coursePerCategory)
+  } else {
+    const course = coursePerCategory.filter(singleCourse => singleCourse.category_id === id) || {}
+    res.send(course)
+  }
 })
 
 app.get('/courses', (req, res) => {
