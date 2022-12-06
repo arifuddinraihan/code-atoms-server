@@ -38,6 +38,12 @@ app.get('/courses/:id', (req, res) => {
   res.send(singleCourse)
 })
 
+app.get('/check-out/:id', (req, res) => {
+  const id = req.params.id
+  const CheckoutCourse = coursePerCategory.find(perCourse => perCourse.id === id) || {}
+  res.send(CheckoutCourse)
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
